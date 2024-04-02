@@ -1,4 +1,4 @@
---- First execution
+--- First execution with mps
 10.788929 M parameters
 step 0: train loss 4.2221, val loss 4.2306
 step 500: train loss 1.7446, val loss 1.9049
