@@ -4,4 +4,7 @@ exclude =
     __pycache__,
     .venv,
 
-ignore = E501
+ignore =
+    E501,
+    E731,
+    E741,
